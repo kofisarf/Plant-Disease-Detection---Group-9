@@ -6,7 +6,7 @@ Course: Introduction to Artificial Intelligence
 Instructor: Dr. Daniel Addo  
 Date: July 22, 2026 
 
-#Project Overview
+Project Overview
 Agriculture contributes approximately 22.8% of Ghana's GDP and employs about a third of the labor force. However, a major threat to agricultural productivity is plant diseases, which frequently lead to crop failure. Because Ghana has a limited number of agricultural extension officers, smallholder farmers often rely on visual inspections and informal advice, leading to misdiagnoses. 
 
 Our Goal: To develop an image-based machine learning model (Convolutional Neural Network) that accurately detects diseases in key Ghanaian crops, specifically corn,tomatoes, pepper and potatoes. By enabling farmers to identify diseases instantly  with their smartphone photos, we aim to facilitate early intervention, reduce preventable crop losses, and improve farmers’ livelihoods .
